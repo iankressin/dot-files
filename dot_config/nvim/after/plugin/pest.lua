@@ -1,0 +1,1 @@
+require('pest-vim').setup {}
